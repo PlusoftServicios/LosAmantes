@@ -1,0 +1,546 @@
+{
+  "settings": {
+    "name": "Los amantesSite-02-25_1141",
+    "currentPage": "Inicio.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#38302d",
+        "#3c3c3c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 16,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "PROCESO",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS AMANTES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Los Mezcales</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_joven.php\">Jóven</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_reposado.php\">Reposado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_anejo.php\">Añejo</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">El Proceso</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-4\" aria-expanded=\"false\">Corte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-5\" aria-expanded=\"false\">Cocimiento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-7\" aria-expanded=\"false\">Molienda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-9\" aria-expanded=\"false\">Destilación</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/los-amantes-logo-169x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-0",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LOS AMANTES</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#38302d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/corte-750x535.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CORTE",
+          "text": "<p>El proceso de cortar o jimar el agave consiste en cortar las pencas y la raíz del Agave para dejar solamente el corazón o piña.</p><p>Este proceso se hace mediante la utilización de herramientas de corte como machetes y en especial con la coa que es un objeto semicircular de metal afilado y con un mango de madera para su sujeción. Hay piñas pequeñas y otras que llegan a alcanzar proporciones enormes, como la de un agave Espadín que gano un concurso en Santiago Matatlán, Oaxaca que llegó a pesar 600 kilos.<br></p><p>Por lo tanto el trabajo de jimar los agaves no es algo sencillo ya que implica desde buscar y encontrar los agaves (en el caso de los silvestres), arrancarlos de la tierra, cortarlos, moverlos, cargar el vehículo para el transporte, transportarlo y descargarlo en el palenque.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "13px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cocimiento-750x535.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "COCIMIENTO",
+          "text": "<p>El segundo paso en la elaboración del mezcal consiste en obtener los azúcares provenientes del agave. Posiblemente esta es la parte más importante en el proceso, históricamente hablando, ya que fueron nuestros antepasados hace miles de años los que descubrieron estas propiedades tan importantes en los agaves. Se dice que porque un rayo caído del cielo fue el encargado de quemar un maguey en el campo y fue ahí cuando se dieron cuenta del valioso alimento que les podía proporcionar.</p><p>Para obtener los azúcares de la piña de agave hay que elevar la temperatura del mismo mediante el uso de hornos, típicamente cónicos de piedra y bajo tierra (ver foto) calentados con madera gruesa de la misma zona. Por ejemplo, en Oaxaca se utiliza comúnmente madera de mezquite o encino.<br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#38302d"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "13px",
+              "color": "#38302d"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#38302d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/molienda-750x535.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MOLIENDA",
+          "text": "<p>Una vez cocidas las piñas de los agaves, se cortan nuevamente en trozos más pequeños con hacha o machete para colocarlos en la molienda.</p><p>Normalmente se utiliza una molienda circular de piedra o cemento en la que gira otra piedra, de aproximadamente 500 kilos, tirada o jalada por un animal de carga (caballo o mula), este tipo de molino se llama molino chileno, tahona chilena o molino egipcio.<br></p><p>Otra forma de moler las piñas del agave es de forma manual utilizando un mazo y un recipiente para triturarlo. Evidentemente este último es un proceso más complejo porque requiere un gran esfuerzo físico. Generalmente este tipo de molienda se utiliza para producir pequeñas cantidades de mezcal o para elaborar mezcal de olla.<br></p><p>Debido a que es más común encontrar el molino de tahona chilena, explicaremos el proceso basándonos en ella.<br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "13px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/destilacion-750x535.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DESTILACIÓN",
+          "text": "<p>La separación de las sustancias volátiles de las no volátiles del tepache proveniente de la etapa de fermentación, es lo que se conoce como destilación. En el tepache encontramos materia sólida (no volátiles) y liquida (volátiles) los cuales deben de ser separados mediante la destilación. En la parte líquida hay alcoholes, cetonas, ésteres, etc. Y en la sólida hay grasas, sales minerales, fibras, etc.</p><p>Al someter al tepache a la acción del calor provoca la evaporación de alcoholes e impurezas, quedando separada de los materiales sólidos, a este proceso se le conoce como primera destilación. Si esos gases son colectados y retornan a su estado natural, en una segunda destilación se obtiene un alcohol que en el caso del agave recibe el nombre de mezcal en los estados con Denominación de Origen.<br></p><p>El proceso de destilación se lleva a cabo en un alambique, varias teorías explican el uso del alambique para destilar el agave fermentado, aunque dos son las más conocidas, una menciona que fueron los españoles (que lo heredaron de los árabes) los que lo introdujeron a nuestro territorio y la otra teoría sostiene en que los filipinos fueron los que lo introdujeron el alambique chino. Existen varios tipos de alambique pero todos hacen lo mismo, destilar.<br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#38302d"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "13px",
+              "color": "#38302d"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER MÁS</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUSCRÍBETE PARA MAS INFORMACIÓN",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUSCRIBIRME</a>",
+          "form": {
+            "action": "carlos.m@plusoft.org",
+            "alerts": {
+              "success": "Muchas Gracias!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ingresa tu correo electrónico"
+              }
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-b",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "Inicio.html": {
+      "settings": {
+        "main": true,
+        "title": "Los Amantes",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">LOS AMANTES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Los Mezcales</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_joven.php\">Jóven</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_reposado.php\">Reposado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.losamantes.com/es/los_amantes_anejo.php\">Añejo</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">El Proceso</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-4\" aria-expanded=\"false\">Corte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-5\" aria-expanded=\"false\">Cocimiento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-7\" aria-expanded=\"false\">Molienda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html#msg-box4-9\" aria-expanded=\"false\">Destilación</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/los-amantes-logo-169x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-0",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LOS AMANTES</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/BkZwykVc4Ys?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/BkZwykVc4Ys",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Destilería \"Los amantes\"",
+          "text": "#SomosLosAmantes",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXPERIMENTA EL MEZCAL</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUSCRÍBETE PARA MAS INFORMACIÓN",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUSCRIBIRME</a>",
+          "form": {
+            "action": "carlos.m@plusoft.org",
+            "alerts": {
+              "success": "Muchas Gracias!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Ingresa tu correo electrónico"
+              }
+            }
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form2-f"
+        }
+      ]
+    }
+  }
+}

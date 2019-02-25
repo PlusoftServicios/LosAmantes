@@ -1,0 +1,96 @@
+#dropdown-menu-2btn-3 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-3 .nav .link,
+#dropdown-menu-2btn-3 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-3 .navbar,
+#dropdown-menu-2btn-3 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-3 .dropdown-menu a:hover,
+#dropdown-menu-2btn-3 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-3 .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-4 .mbr-article P {
+  font-size: 13px;
+}
+#msg-box4-5 .mbr-header__text {
+  color: #38302d;
+}
+#msg-box4-5 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-5 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-5 .mbr-article P {
+  font-size: 13px;
+  color: #38302d;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article P {
+  font-size: 13px;
+}
+#msg-box4-9 .mbr-header__text {
+  color: #38302d;
+}
+#msg-box4-9 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-9 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-9 .mbr-article P {
+  font-size: 13px;
+  color: #38302d;
+}
+#form2-b .mbr-header__text {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #ffffff;
+}
+#form2-f .mbr-header__text {
+  color: #ffffff;
+}
